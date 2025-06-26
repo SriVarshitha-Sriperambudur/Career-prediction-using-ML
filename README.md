@@ -28,6 +28,7 @@ The model analyzes user inputs such as Big Five personality traits (OCEAN) and v
 🔮 Single User Prediction with full reasoning breakdown
 
 
+
 📂 Input Features:
 
 The model uses the following 10 input features:
