@@ -6,6 +6,7 @@ This project is a smart Career Prediction System that uses personality traits, a
 
 The model analyzes user inputs such as Big Five personality traits (OCEAN) and various aptitude scores (Numerical, Verbal, Spatial, etc.) to predict the most suitable career using a trained machine learning model. It also provides a reason for the prediction by identifying the top contributing features.
 
+
 🚀 Key Features:
 
 ✅ Handles Missing Data using appropriate imputers for numerical and categorical features
@@ -25,6 +26,7 @@ The model analyzes user inputs such as Big Five personality traits (OCEAN) and v
 📈 Accuracy Reporting on test data
 
 🔮 Single User Prediction with full reasoning breakdown
+
 
 📂 Input Features:
 
