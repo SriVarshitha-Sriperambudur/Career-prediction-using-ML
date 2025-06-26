@@ -3,6 +3,7 @@
 This project is a smart Career Prediction System that uses personality traits, aptitude scores, and machine learning techniques to suggest the most suitable career path for a user. It is built using Python, scikit-learn, and Random Forest Classification, and includes advanced handling for class imbalance, feature importance analysis, and explainable predictions.
 
 🧠 What It Does
+
 The model analyzes user inputs such as Big Five personality traits (OCEAN) and various aptitude scores (Numerical, Verbal, Spatial, etc.) to predict the most suitable career using a trained machine learning model. It also provides a reason for the prediction by identifying the top contributing features.
 
 🚀 Key Features:
